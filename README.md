@@ -1,6 +1,8 @@
 # Seedance 2.0 结构化提示语指南
 
-本仓库整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。
+本仓库整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。同时skill已经完成，直接可以让你的codex/workbuddy等使用这个项目。
+
+实际效果：https://www.bilibili.com/video/BV17qb26vEED/?vd_source=86926e418c83af75f6850b5546388a79
 
 ## 📖 仓库说明
 
