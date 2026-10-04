@@ -4,6 +4,8 @@
 
 实际效果：https://www.bilibili.com/video/BV17qb26vEED/?vd_source=86926e418c83af75f6850b5546388a79
 
+如果是想视频复刻效果： https://github.com/liangdabiao/video-clone-lite
+
 ## 📖 仓库说明
 
 ### 主要文件
